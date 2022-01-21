@@ -1,0 +1,13 @@
+192.168.21.12	rgb1.learnfact.lab
+192.168.21.22	rgb2.learnfact.lab
+192.168.21.32	rgb3.learnfact.lab
+192.168.21.42	rgb4.learnfact.lab
+192.168.21.52	rgb5.learnfact.lab
+192.168.21.62	rgb6.learnfact.lab
+192.168.21.72	rgb7.learnfact.lab
+192.168.21.82	rgb8.learnfact.lab
+192.168.21.92	rgb9.learnfact.lab
+192.168.21.102	rgb10.learnfact.lab
+192.168.21.112	rgb11.learnfact.lab
+192.168.21.122	rgb12.learnfact.lab
+192.168.21.132	rgb.learnfact.lab
